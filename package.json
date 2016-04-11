@@ -1,0 +1,26 @@
+{
+  "name": "iipmooviewer",
+  "version": "2.0.0",
+  "title": "IIPMooViewer",
+  "description": "IIPMooViewer is a high performance light-weight HTML5 Ajax-based javascript image streaming and zooming client designed for the IIPImage high resolution imaging system.",
+  "keywords": [
+    "javascript",
+    "viewer",
+    "image",
+    "zoom"
+  ],
+  "homepage": "https://github.com/ruven/iipmooviewer",
+  "author": {
+    "name": "Ruven",
+    "url": "https://github.com/ruven"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ruven/iipmooviewer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
